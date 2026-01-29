@@ -1,0 +1,1 @@
+Sales trend and growth analysis dashboard.
